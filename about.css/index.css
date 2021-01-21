@@ -1,0 +1,26 @@
+.section h2 {
+  display: flex;
+  position: absolute;
+  font-size: 2.5rem;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  /* top me manda el título más abajo en la pantalla . */
+  top: 125.5rem;
+  left: 50.5rem;
+}
+.section p {
+  display: flex;
+  position: absolute;
+  text-align: center;
+  font-size: 1.3rem;
+  /* Nuevamente top me manda el contenido más abajo en la pantalla . */
+  top: 129rem;
+  left: 48rem;
+}
+.section a {
+  display: flex;
+  position: absolute;
+  text-decoration: none;
+  color: #2997ff;
+}
